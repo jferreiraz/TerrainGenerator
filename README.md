@@ -1,5 +1,7 @@
 # TerrainGenerator
 
+  ![Terrain Generator](https://user-images.githubusercontent.com/106937501/200205704-ea88eba0-f47c-490f-929a-dc0a152987e4.gif)
+
 <h2>Project information:</h2>
 <h4>
 
@@ -32,7 +34,5 @@ For example, if you wanna add a solution for problem 0001, you should do like th
   * cd `0001`.
   * and the write some code & test it.
    <br><br>
-   ## Results:<br>
-  ![Terrain Generator](https://user-images.githubusercontent.com/106937501/200205704-ea88eba0-f47c-490f-929a-dc0a152987e4.gif)
 
  </h4>
