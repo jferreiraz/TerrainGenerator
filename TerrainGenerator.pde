@@ -36,7 +36,6 @@ void draw(){
     yoff += 0.02;
   }
 
-  stroke(random(100,125),random(100,115),random(100,115));  //iridiscent gray of the lines
   fill(19,19,20);                                           //filling the lines
   background(10,10,10);                                     //background color
   
@@ -46,6 +45,7 @@ void draw(){
   
   for(int y = 0; y < rows - 1; y++){  //modifying terrain surface
   beginShape(TRIANGLE_STRIP);
+  stroke(map(y,0,rows,0,255));
   for(int x = 0; x < columns; x++){
       vertex(x * scale, y * scale, terrain[x][y]);
       vertex(x * scale, (y+1) * scale, terrain[x+1/3][y+1]);
