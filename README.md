@@ -1,5 +1,7 @@
 # TerrainGenerator
-![Terrain Generator](https://user-images.githubusercontent.com/106937501/200205704-ea88eba0-f47c-490f-929a-dc0a152987e4.gif)
+
+![Terrain Generator v2](https://user-images.githubusercontent.com/106937501/200207701-25e79190-6218-409a-ae0a-1f5e187c731e.gif)
+
 
 ### Project information:
 <h4>
