@@ -17,23 +17,4 @@ Everything is commented and marked for better interaction with the code. I tried
 The application was developed in java, there are several comments in the code lines explaining the functionality of each one.
 <br><br>
 
-### How to Add your solutions:
-<h4>
-  * Fork this repo. <br>
-  * Create a folder named with your github name.<br>
-  * Create a folder named the problem num.<br>
-  * Add your solution in the folder.<br><br>
-
-### For example, if you wanna add a solution for problem 0001, you should do like this:
-
-  * Fork `jferreiraz/TerrainGenerator`.
-  * git clone `YOUR_REPO_URL SOME_DIR`.
-  * cd `SOME_DIR`.
-  * mkdir `YOUR_GITHUB_USER_NAME`.
-  * cd `YOU_GITHUB_USER_NAME`.
-  * mkdir `0001`.
-  * cd `0001`.
-  * and the write some code & test it.
-   <br><br>
-
  </h4>
